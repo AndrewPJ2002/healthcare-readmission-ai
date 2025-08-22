@@ -14,7 +14,10 @@ It demonstrates an **end-to-end ML pipeline** including:
 - Hosted on Hugging Face Spaces (free deployment)
 
 ## Dataset
-[Diabetes Readmission Dataset]([https://www.kaggle.com/datasets/andrewmvd/diabetes-readmission](https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008)
+This project uses the **Diabetes 130-US Hospitals** dataset, containing over 100K patient records from 130 U.S. hospitals (1999–2008).  
 
+- [UCI Repository (official source)](https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008)  
+- [Kaggle Mirror](https://www.kaggle.com/datasets/andrewmvd/diabetes-readmission)
+  
 ## Project Status
 🚧 Work in progress — initial setup complete.
