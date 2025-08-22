@@ -14,7 +14,8 @@ It demonstrates an **end-to-end ML pipeline** including:
 - Hosted on Hugging Face Spaces (free deployment)
 
 ## Dataset
-[Diabetes Readmission Dataset](https://www.kaggle.com/datasets/andrewmvd/diabetes-readmission)
+[Diabetes Readmission Dataset]([https://www.kaggle.com/datasets/andrewmvd/diabetes-readmission](https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008
+))
 
 ## Project Status
 🚧 Work in progress — initial setup complete.
