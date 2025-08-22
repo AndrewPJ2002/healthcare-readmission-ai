@@ -1,2 +1,20 @@
-# healthcare-readmission-ai
-End-to-end ML project predicting hospital readmission risk — data cleaning, feature engineering, modeling, interpretability (SHAP), and deployment with Streamlit.
+# Healthcare Readmission AI
+
+This project predicts hospital readmission risk for diabetic patients using machine learning.  
+It demonstrates an **end-to-end ML pipeline** including:
+
+- 📊 Data cleaning & preprocessing (ETL)  
+- 🔎 Exploratory Data Analysis & visualization  
+- 🤖 Model training (Logistic Regression, Random Forest, XGBoost)  
+- 📈 Model evaluation (ROC-AUC, confusion matrix, SHAP interpretability)  
+- 🌐 Deployment as an interactive Streamlit app  
+
+## Tech Stack
+- Python, Pandas, NumPy, scikit-learn, XGBoost, Streamlit
+- Hosted on Hugging Face Spaces (free deployment)
+
+## Dataset
+[Diabetes Readmission Dataset](https://www.kaggle.com/datasets/andrewmvd/diabetes-readmission)
+
+## Project Status
+🚧 Work in progress — initial setup complete.
